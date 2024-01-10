@@ -1,0 +1,39 @@
+body {
+  background-color: #89CFF0;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+/*Headers*/
+h1 { 
+  text-align: center;
+  color: #005212;
+  text-shadow: 2px 2px #000552;
+  font-weight: bold;
+  font-size: 300%;
+}
+
+h2 { 
+  text-align: center;
+}
+
+/*Classes*/
+.border {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+.small-title {
+  text-align: center;
+}
+
+.description {
+   text-align: left;
+}
+
+
+/* IDs */
+#top-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+      }
